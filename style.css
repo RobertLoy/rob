@@ -1,0 +1,10 @@
+body {
+     color:  purple;
+     background-color: yellow;
+}
+.bob {
+     font-size: 2em;
+}
+.pizza {
+     border: 10px dotted red;
+}
